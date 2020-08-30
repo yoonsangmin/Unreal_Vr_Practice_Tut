@@ -5,7 +5,7 @@
 			"app_key": "application.generated.ue.virtual-reality-bp-game-template-13942748.ue4editor.exe",
 			"launch_type": "url",
 			"url": "steam://launch/",
-			"action_manifest_path": "C:/Users/Acer/Documents/Unreal Projects/VrCollisionTut/Config/SteamVRBindings/steamvr_manifest.json",
+			"action_manifest_path": "C:/Users/Acer/Documents/Unreal Projects/Unreal-VR-Practice-Tut/VrCollisionTut/Config/SteamVRBindings/steamvr_manifest.json",
 			"strings":
 			{
 				"en_us":
